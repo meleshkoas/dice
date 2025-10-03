@@ -1,3 +1,3 @@
 import random
 
-print (random.randint (1,20))
+print (max(random.randint (1,20),random.randint (1,20)))
